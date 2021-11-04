@@ -1,4 +1,3 @@
-github profile markdown generator logo
 <h1 align="center">Hi 👋, I'm Watan</h1>
 <h3 align="center">A passionate backend software developer from India</h3>
 
