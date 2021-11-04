@@ -1,19 +1,4 @@
 github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7426
-Fork on GitHub
-1444
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Watan</h1>
 <h3 align="center">A passionate backend software developer from India</h3>
 
