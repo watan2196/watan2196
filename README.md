@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Watan</h1>
 <h3 align="center">A passionate backend software developer from India</h3>
 
-- 🔭 I’m currently working on **microservices**
+- 🔭 I’m currently working on building scalable **microservices**
 
 - 🌱 I’m currently learning **django,python,microservices,crawlers**
 
